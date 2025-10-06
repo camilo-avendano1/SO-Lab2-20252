@@ -1,0 +1,14 @@
+total 11916
+drwxr-xr-x. 1 ougi ougi      174 oct  6 17:09 .
+drwxr-xr-x. 1 ougi ougi       52 oct  6 17:03 ..
+drwxr-xr-x. 1 ougi ougi       18 oct  6 17:03 ejercicios_refuerzo
+drwxr-xr-x. 1 ougi ougi       88 oct  6 17:03 enunciado
+drwxr-xr-x. 1 ougi ougi      122 oct  6 17:03 .git
+-rw-r--r--. 1 ougi ougi    35149 oct  6 17:03 LICENSE
+-rw-r--r--. 1 ougi ougi     3576 oct  6 17:03 README.md
+-rw-r--r--. 1 ougi ougi 10077310 oct  6 17:03 s29.pdf
+-rw-r--r--. 1 ougi ougi  2056090 oct  6 17:03 s30.pdf
+drwxr-xr-x. 1 ougi ougi      120 oct  6 17:03 tester
+-rw-r--r--. 1 ougi ougi        0 oct  6 17:09 texto.txt
+-rwxr-xr-x. 1 ougi ougi    14136 oct  6 17:08 wish
+-rw-r--r--. 1 ougi ougi     7946 oct  6 17:03 wish.c
